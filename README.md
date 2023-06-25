@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PearlDevMan 🌀 from JP </h1>
+<h1 align="center">Hi 👋, I'm PearlDevMan 🌀</h1>
 <h3 align="center">The DevOps/Data Engineer</h3>
 
 
