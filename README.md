@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm PearlDevMan 🌀</h1>
 <h3 align="center">The DevOps/Data Engineer</h3>
 
+<a href="https://app.daily.dev/kogutstt2"><img align="right" src="https://api.daily.dev/devcards/e3f23db2a74e4af8b160a132c3d18f6b.png?r=y90" width="400" alt="Software Engineer's Dev Card"/></a></a>
 
 🏢 I’m currently working in [Upwork](https://www.upwork.com) as **DevOps/Data Engineer**
 
