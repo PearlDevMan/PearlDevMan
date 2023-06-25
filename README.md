@@ -25,7 +25,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="20%">
 
 
 
@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" title="cpp" width="40" height="40"/>
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 
@@ -53,7 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" title="apple" width="25" height="40"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
@@ -66,7 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/>
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
   
