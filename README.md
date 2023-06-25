@@ -23,7 +23,7 @@
 
 - 🎖 Packaging Applications using Helm - Pluralsight and many more...
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pearldevman&show_icons=true&hide=stars,issues" alt="pearkdevman" /></p>
 ## My Skill Set  
 <table><tr><td valign="top" width="20%">
 
