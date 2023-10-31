@@ -3,7 +3,7 @@
 
 <a href="https://app.daily.dev/cutecomcat"><img align="right" src="https://api.daily.dev/devcards/6559ce76d3af4f4eaa1082411161ad76.png?r=h5k" width="400" alt="CuteComCat's Dev Card"/></a>
 
-🏢 I’m currently working in [Upwork](https://www.upwork.com) as **DevOps/Data Engineer**
+🏢 I’m currently working as **DevOps/Data Engineer**
 
 💡 Hashtag that describes me **`#ComWizard`**
 
